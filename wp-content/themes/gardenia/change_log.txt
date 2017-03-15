@@ -1,0 +1,34 @@
+Version 1.0
+	i)   Theme Submitted for approval
+
+Version 1.1
+	i)  css changes in theme files
+
+Version 1.1.1
+	i) Remove title-tag function.
+	ii) fix css issues.
+
+Version 1.1.2
+         i) Change css for Breadcrumb in Responsive
+        ii) Change layout for latest posts in home page 
+       iii) Fix css issues
+        iv) Change layout for sidebar page in responsive
+        
+Version 1.1.3
+	i)	set esc_url() in footer.
+
+Version 1.1.4
+		i) Remove unused code from index.php.
+        ii) Set sanitization in header.php, frontpage.php, footer.php and theme-options.php
+       
+Version 1.1.5
+	i) Set customizer option like Display Header Text,background color.
+	ii) Made $content_width global.
+	iii) Set sanitization in all pages.
+	iv) Set image validation in theme-options.php
+	
+Version 1.1.6
+	i) Add PRO Theme Features tab in theme options.	
+        
+Version 1.1.7
+	i)   Set link in home page circles. 

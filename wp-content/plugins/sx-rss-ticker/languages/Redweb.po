@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sx RSS Ticker on post\n"
+"POT-Creation-Date: 2015-05-20 16:57+0100\n"
+"PO-Revision-Date: 2015-05-20 16:57+0100\n"
+"Last-Translator: \n"
+"Language-Team: http://www.redweb.tn/ <contact@redweb.tn>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../save/sx-rss-ticker.php:129 ../sx-rss-ticker.php:153
+msgid "Details successfully updated."
+msgstr "Détails correctement mis à jour."
+
+#: ../save/sx-rss-ticker.php:134 ../save/sx-rss-ticker.php:452
+#: ../sx-rss-ticker.php:158 ../sx-rss-ticker.php:676
+msgid "Sx Rss Ticker"
+msgstr "Sx Rss Ticker"
+
+#: ../save/sx-rss-ticker.php:136 ../sx-rss-ticker.php:164
+msgid "Setting 1"
+msgstr "Réglage 1"
+
+#: ../save/sx-rss-ticker.php:137 ../save/sx-rss-ticker.php:151
+#: ../save/sx-rss-ticker.php:165 ../save/sx-rss-ticker.php:179
+msgid "Rss link"
+msgstr "Lien rss"
+
+#: ../save/sx-rss-ticker.php:139 ../save/sx-rss-ticker.php:153
+#: ../save/sx-rss-ticker.php:167 ../save/sx-rss-ticker.php:181
+msgid "Enter your rss link in this box."
+msgstr "Entrez votre lien RSS dans cette case."
+
+#: ../save/sx-rss-ticker.php:140 ../save/sx-rss-ticker.php:154
+#: ../save/sx-rss-ticker.php:168 ../save/sx-rss-ticker.php:182
+#: ../sx-rss-ticker.php:216 ../sx-rss-ticker.php:289 ../sx-rss-ticker.php:362
+#: ../sx-rss-ticker.php:435
+msgid "Each record height"
+msgstr "Hauteur"
+
+#: ../save/sx-rss-ticker.php:142 ../save/sx-rss-ticker.php:156
+#: ../save/sx-rss-ticker.php:170 ../save/sx-rss-ticker.php:184
+msgid "This is the height of the each record in the scroll."
+msgstr "Ceci est la hauteur de la chaque enregistrement dans le défilement."
+
+#: ../save/sx-rss-ticker.php:143 ../save/sx-rss-ticker.php:157
+#: ../save/sx-rss-ticker.php:171 ../save/sx-rss-ticker.php:185
+#: ../sx-rss-ticker.php:221 ../sx-rss-ticker.php:294 ../sx-rss-ticker.php:367
+#: ../sx-rss-ticker.php:440
+msgid "Display records"
+msgstr "Afficher les enregistrements"
+
+#: ../save/sx-rss-ticker.php:145 ../save/sx-rss-ticker.php:159
+#: ../save/sx-rss-ticker.php:173 ../save/sx-rss-ticker.php:187
+msgid "No of records you want to show in the screen at the same time."
+msgstr ""
+"Pas d'enregistrements que vous souhaitez afficher dans l'écran en même temps."
+
+#: ../save/sx-rss-ticker.php:146 ../save/sx-rss-ticker.php:160
+#: ../save/sx-rss-ticker.php:174 ../save/sx-rss-ticker.php:188
+#: ../sx-rss-ticker.php:233 ../sx-rss-ticker.php:306 ../sx-rss-ticker.php:379
+#: ../sx-rss-ticker.php:452
+msgid "Text length"
+msgstr "Longueur du texte"
+
+#: ../save/sx-rss-ticker.php:148 ../save/sx-rss-ticker.php:162
+#: ../save/sx-rss-ticker.php:176 ../save/sx-rss-ticker.php:190
+#: ../sx-rss-ticker.php:235 ../sx-rss-ticker.php:308 ../sx-rss-ticker.php:381
+#: ../sx-rss-ticker.php:454
+msgid "Enter description text length."
+msgstr "Enter description longueur du texte."
+
+#: ../save/sx-rss-ticker.php:150 ../sx-rss-ticker.php:237
+msgid "Setting 2"
+msgstr "Réglage 2"
+
+#: ../save/sx-rss-ticker.php:164 ../sx-rss-ticker.php:310
+msgid "Setting 3"
+msgstr "Réglage 3"
+
+#: ../save/sx-rss-ticker.php:178 ../sx-rss-ticker.php:383
+msgid "Setting 4"
+msgstr "Réglage 4"
+
+#: ../save/sx-rss-ticker.php:194 ../sx-rss-ticker.php:460
+msgid "Update All Details"
+msgstr "Mettre à jour tous les détails"
+
+#: ../save/sx-rss-ticker.php:195 ../sx-rss-ticker.php:461
+msgid "Help"
+msgstr "Aidez-Moi"
+
+#: ../save/sx-rss-ticker.php:200 ../sx-rss-ticker.php:466
+msgid "Plugin configuration option"
+msgstr "Plugin l'option de configuration"
+
+#: ../save/sx-rss-ticker.php:202 ../sx-rss-ticker.php:468
+msgid "Add plugin in the posts or pages using short code."
+msgstr "Ajouter plugin dans les messages ou des pages à l'aide de code court."
+
+#: ../save/sx-rss-ticker.php:203 ../sx-rss-ticker.php:469
+msgid "Add directly in to the theme using PHP code."
+msgstr "Ajouter directement dans le thème en utilisant le code PHP."
+
+#: ../save/sx-rss-ticker.php:205 ../sx-rss-ticker.php:471
+msgid "Check official website for more information"
+msgstr "Consultez le site officiel pour plus d'informations"
+
+#: ../save/sx-rss-ticker.php:206 ../sx-rss-ticker.php:472
+msgid "click here"
+msgstr "cliquez ici"
+
+#: ../save/sx-rss-ticker.php:387 ../sx-rss-ticker.php:634
+msgid "No records found."
+msgstr "Aucun enregistrement trouvé."
+
+#: ../sx-rss-ticker.php:165 ../sx-rss-ticker.php:238 ../sx-rss-ticker.php:311
+#: ../sx-rss-ticker.php:384
+msgid "Direction"
+msgstr "Direction"
+
+#: ../sx-rss-ticker.php:170 ../sx-rss-ticker.php:243 ../sx-rss-ticker.php:316
+#: ../sx-rss-ticker.php:389
+msgid "This property determines the direction of movement of the list."
+msgstr "Cette propriété détermine la direction du mouvement de la liste."
+
+#: ../sx-rss-ticker.php:172 ../sx-rss-ticker.php:245 ../sx-rss-ticker.php:318
+#: ../sx-rss-ticker.php:391
+msgid "Easing"
+msgstr "Annimation"
+
+#: ../sx-rss-ticker.php:206 ../sx-rss-ticker.php:279 ../sx-rss-ticker.php:352
+#: ../sx-rss-ticker.php:425
+msgid ""
+"The easing property allows to add some easing effects to the transition "
+"using the easing function available from the Easing plugin."
+msgstr ""
+"La propriété assouplissement permet d'ajouter des effets d'accélération de "
+"la transition en utilisant la fonction d'assouplissement disponible à partir "
+"du plugin Easing."
+
+#: ../sx-rss-ticker.php:208 ../sx-rss-ticker.php:281 ../sx-rss-ticker.php:354
+#: ../sx-rss-ticker.php:427
+msgid "Speed of transition"
+msgstr "Vitesse de la transition"
+
+#: ../sx-rss-ticker.php:210 ../sx-rss-ticker.php:283 ../sx-rss-ticker.php:356
+#: ../sx-rss-ticker.php:429
+msgid ""
+"This property determines the speed of transition. Values: slow, medium, fast "
+"or any value in milliseconds."
+msgstr ""
+"Cette propriété détermine la vitesse de transition. Valeurs: lente, moyenne, "
+"rapide ou une valeur en millisecondes."
+
+#: ../sx-rss-ticker.php:212 ../sx-rss-ticker.php:285 ../sx-rss-ticker.php:358
+#: ../sx-rss-ticker.php:431
+msgid "Time for the next transition"
+msgstr "Temps pour la prochaine transition"
+
+#: ../sx-rss-ticker.php:214 ../sx-rss-ticker.php:287 ../sx-rss-ticker.php:360
+#: ../sx-rss-ticker.php:433
+msgid ""
+"The time for the next transition to take place. Values: time in milliseconds."
+msgstr ""
+"Le temps pour la prochaine transition doit avoir lieu. Valeurs: durée en "
+"millisecondes."
+
+#: ../sx-rss-ticker.php:218 ../sx-rss-ticker.php:291 ../sx-rss-ticker.php:364
+#: ../sx-rss-ticker.php:437
+msgid "The height of the element can be controlled by this property."
+msgstr "La hauteur de l'élément peut être commandé par cet établissement."
+
+#: ../sx-rss-ticker.php:219 ../sx-rss-ticker.php:292 ../sx-rss-ticker.php:365
+#: ../sx-rss-ticker.php:438
+msgid ""
+"If the height is set to auto, the height is automatically determined to fit "
+"the list."
+msgstr ""
+"Si la hauteur est réglée sur auto, la hauteur est automatiquement déterminé "
+"en fonction de la liste."
+
+#: ../sx-rss-ticker.php:223 ../sx-rss-ticker.php:296 ../sx-rss-ticker.php:369
+#: ../sx-rss-ticker.php:442
+msgid "The number of visible elements of the list can be set to this property."
+msgstr ""
+"Le nombre d'éléments visibles de la liste peut être réglé pour cette "
+"propriété."
+
+#: ../sx-rss-ticker.php:224 ../sx-rss-ticker.php:297 ../sx-rss-ticker.php:370
+#: ../sx-rss-ticker.php:443
+msgid "Values: 0 (display all) or any specific count like 1, 2, 3 etc."
+msgstr ""
+"Valeurs: 0 (afficher tout) ou un chef d'accusation spécifique comme 1, 2, 3, "
+"etc."
+
+#: ../sx-rss-ticker.php:226 ../sx-rss-ticker.php:299 ../sx-rss-ticker.php:372
+#: ../sx-rss-ticker.php:445
+msgid "Mouse pause"
+msgstr "Mouse pause"
+
+#: ../sx-rss-ticker.php:231 ../sx-rss-ticker.php:304 ../sx-rss-ticker.php:377
+#: ../sx-rss-ticker.php:450
+msgid "The timer can be stopped when the mouse rolls over the element."
+msgstr "La minuterie peut être arrêté lorsque la souris survole l'élément."
+
+#~ msgid "Sx Rss Ticker on post"
+#~ msgstr "Sx Rss Ticker on post"
+
+#~ msgid "Sx RSS Ticker on post"
+#~ msgstr "Sx RSS Ticker on post"

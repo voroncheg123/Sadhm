@@ -34,7 +34,6 @@ get_header(); ?>
 		<div class="col-md-8 news_body">
 			<h4 class="news_title">Акции</h4>
             <?php
-            111111
             //$id=23; // ID заданной рубрики
             $n=7;   // количество выводимых записей
             $recent = new WP_Query("cat=28&showposts=$n");

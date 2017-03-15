@@ -1,0 +1,477 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gardenia V1.1.7\n"
+"POT-Creation-Date: 2015-01-09 18:46+0530\n"
+"PO-Revision-Date: 2015-01-09 18:46+0530\n"
+"Last-Translator: FruitThemes <info@fruitthemes.com>\n"
+"Language-Team: FruitThemes <info@fruitthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:10 404.php:23
+msgid "Epic 404 - Article Not Found"
+msgstr ""
+
+#: 404.php:24
+msgid "This is embarassing. We can't find what you were looking for."
+msgstr ""
+
+#: 404.php:25
+msgid ""
+"Whatever you were looking for was not found, but maybe try looking again or "
+"search using the form below."
+msgstr ""
+
+#: archive.php:13 archive.php:16 archive.php:19
+msgid "Archives "
+msgstr ""
+
+#: author.php:12
+msgid "All posts by "
+msgstr ""
+
+#: category.php:12
+msgid "Category "
+msgstr ""
+
+#: comments.php:18
+#, php-format
+msgid "One Response to \"%2$s\""
+msgid_plural "%1$s Responses to \"%2$s\""
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:27
+msgid "No comments."
+msgstr ""
+
+#: footer.php:40
+msgid "Powered by "
+msgstr ""
+
+#: footer.php:40
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:40
+msgid " and "
+msgstr ""
+
+#: functions.php:10
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:11
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:68 page-templates/front-page.php:128
+msgid "Continue reading"
+msgstr ""
+
+#: functions/breadcrumbs.php:9
+msgid "Home"
+msgstr ""
+
+#: functions/breadcrumbs.php:28
+msgid "category"
+msgstr ""
+
+#: functions/breadcrumbs.php:31
+msgid "Search Results For"
+msgstr ""
+
+#: functions/breadcrumbs.php:89
+msgid "Posts tagged"
+msgstr ""
+
+#: functions/breadcrumbs.php:94
+msgid "Articles posted by "
+msgstr ""
+
+#: functions/breadcrumbs.php:97
+msgid "Error 404"
+msgstr ""
+
+#: functions/breadcrumbs.php:102
+msgid "Page"
+msgstr ""
+
+#: functions/custom-widgets.php:11
+msgid "Recent Work only images"
+msgstr ""
+
+#: functions/custom-widgets.php:14
+msgid "Only image for Recent work "
+msgstr ""
+
+#: functions/custom-widgets.php:72
+msgid "New title"
+msgstr ""
+
+#: functions/custom-widgets.php:78
+msgid "Title:"
+msgstr ""
+
+#: functions/custom-widgets.php:81
+msgid "Number of Post to show: "
+msgstr ""
+
+#: functions/theme-default-setup.php:16
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions/theme-default-setup.php:18
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: functions/theme-default-setup.php:26
+msgid "Footer Area One"
+msgstr ""
+
+#: functions/theme-default-setup.php:28
+msgid "Footer area one that appears on the footer."
+msgstr ""
+
+#: functions/theme-default-setup.php:36
+msgid "Footer Area Two"
+msgstr ""
+
+#: functions/theme-default-setup.php:38
+msgid "Footer area two that appears on the footer."
+msgstr ""
+
+#: functions/theme-default-setup.php:46
+msgid "Footer Area Three"
+msgstr ""
+
+#: functions/theme-default-setup.php:48
+msgid "Footer area three that appears on the footer."
+msgstr ""
+
+#: functions/theme-default-setup.php:56
+msgid "Footer Area Four"
+msgstr ""
+
+#: functions/theme-default-setup.php:58
+msgid "Footer area four that appears on the footer."
+msgstr ""
+
+#: functions/theme-default-setup.php:95
+msgid "No Comments"
+msgstr ""
+
+#: functions/theme-default-setup.php:95
+msgid "1 Comment"
+msgstr ""
+
+#: functions/theme-default-setup.php:95
+msgid "% Comments"
+msgstr ""
+
+#: functions/theme-default-setup.php:122
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions/theme-default-setup.php:145
+msgctxt "comment form placeholder"
+msgid "Name *"
+msgstr ""
+
+#: functions/theme-default-setup.php:157
+msgctxt "comment form placeholder"
+msgid "Email Id *"
+msgstr ""
+
+#: functions/theme-default-setup.php:168
+msgctxt "comment form placeholder"
+msgid "Website URl"
+msgstr ""
+
+#: functions/theme-default-setup.php:186
+msgctxt "comment form placeholder"
+msgid "Comment"
+msgstr ""
+
+#: functions/theme-default-setup.php:199
+msgid "Previous"
+msgstr ""
+
+#: functions/theme-default-setup.php:200
+msgid "Next"
+msgstr ""
+
+#: header.php:85
+msgid "logo"
+msgstr ""
+
+#: header.php:96
+msgid "Toggle navigation"
+msgstr ""
+
+#: header.php:130
+msgid "custom-header"
+msgstr ""
+
+#: page-templates/full-width.php:38 page-templates/right-sidebar.php:39
+#: page.php:40 single.php:46
+msgid "Pages"
+msgstr ""
+
+#: search.php:12
+msgid "Search Results for "
+msgstr ""
+
+#: search.php:48
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:49
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: tag.php:14
+msgid "Tag "
+msgstr ""
+
+#: theme-options/theme-options.php:56 theme-options/theme-options.php:57
+#: theme-options/theme-options.php:94
+msgid "Theme Options"
+msgstr ""
+
+#: theme-options/theme-options.php:85
+msgid "Save Options"
+msgstr ""
+
+#: theme-options/theme-options.php:97
+msgid "Basic Settings"
+msgstr ""
+
+#: theme-options/theme-options.php:98
+msgid "Home Page Settings"
+msgstr ""
+
+#: theme-options/theme-options.php:99
+msgid "Social Settings"
+msgstr ""
+
+#: theme-options/theme-options.php:115
+msgid "Site Logo"
+msgstr ""
+
+#: theme-options/theme-options.php:117
+msgid "Size of Logo should be exactly 300x120px for best results."
+msgstr ""
+
+#: theme-options/theme-options.php:120 theme-options/theme-options.php:138
+#: theme-options/theme-options.php:191 theme-options/theme-options.php:234
+msgid "No file chosen"
+msgstr ""
+
+#: theme-options/theme-options.php:121 theme-options/theme-options.php:139
+#: theme-options/theme-options.php:192 theme-options/theme-options.php:235
+msgid "Upload"
+msgstr ""
+
+#: theme-options/theme-options.php:133
+msgid "Favicon"
+msgstr ""
+
+#: theme-options/theme-options.php:135
+msgid "Size of favicon should be exactly 32x32px for best results."
+msgstr ""
+
+#: theme-options/theme-options.php:151
+msgid "Copyright Text"
+msgstr ""
+
+#: theme-options/theme-options.php:154
+msgid ""
+"Some text regarding copyright of your site, you would like to display in the "
+"footer."
+msgstr ""
+
+#: theme-options/theme-options.php:161
+msgid "Email"
+msgstr ""
+
+#: theme-options/theme-options.php:164
+msgid ""
+"Enter e-mail id for your site , you would like to display in the Top Header."
+msgstr ""
+
+#: theme-options/theme-options.php:171
+msgid "Phone"
+msgstr ""
+
+#: theme-options/theme-options.php:174
+msgid ""
+"Enter phone number for your site , you would like to display in the Top "
+"Header."
+msgstr ""
+
+#: theme-options/theme-options.php:183
+msgid "Banner Slider"
+msgstr ""
+
+#: theme-options/theme-options.php:186 theme-options/theme-options.php:201
+msgid "Slider"
+msgstr ""
+
+#: theme-options/theme-options.php:189
+msgid "An image with a height of 500 pixels and a width of 1300 pixels:"
+msgstr ""
+
+#: theme-options/theme-options.php:201
+msgid "link"
+msgstr ""
+
+#: theme-options/theme-options.php:206
+msgid "Title Bar"
+msgstr ""
+
+#: theme-options/theme-options.php:208 theme-options/theme-options.php:258
+msgid "Title"
+msgstr ""
+
+#: theme-options/theme-options.php:211
+msgid ""
+"Enter home page title for your site , you would like to display in the Home "
+"Page."
+msgstr ""
+
+#: theme-options/theme-options.php:217 theme-options/theme-options.php:267
+msgid "Short Description"
+msgstr ""
+
+#: theme-options/theme-options.php:220
+msgid ""
+"Enter content for your site , you would like to display in the Home Page."
+msgstr ""
+
+#: theme-options/theme-options.php:226
+msgid "First Section"
+msgstr ""
+
+#: theme-options/theme-options.php:229
+msgid "Tab"
+msgstr ""
+
+#: theme-options/theme-options.php:232
+msgid "An image with a height of 150 pixels and a width of 150 pixels:"
+msgstr ""
+
+#: theme-options/theme-options.php:245
+msgid ""
+"Enter section title for your home template , you would like to display in "
+"the Home Page."
+msgstr ""
+
+#: theme-options/theme-options.php:246
+msgid "Enter title here"
+msgstr ""
+
+#: theme-options/theme-options.php:249
+msgid ""
+"Enter section content for home template , you would like to display in the "
+"Home Page."
+msgstr ""
+
+#: theme-options/theme-options.php:250
+msgid "Enter Content here"
+msgstr ""
+
+#: theme-options/theme-options.php:256
+msgid "Second Section"
+msgstr ""
+
+#: theme-options/theme-options.php:261
+msgid ""
+"Enter Latest post title for your site , you would like to display in the "
+"Home Page."
+msgstr ""
+
+#: theme-options/theme-options.php:270
+msgid ""
+"Enter latest post content for your site , you would like to display in the "
+"Home Page."
+msgstr ""
+
+#: theme-options/theme-options.php:276 theme-options/theme-options.php:281
+msgid "Select Category"
+msgstr ""
+
+#: theme-options/theme-options.php:279
+msgid ""
+"Select Categories of posts for your site , you would like to display in the "
+"Home Page."
+msgstr ""
+
+#: theme-options/theme-options.php:325
+msgid "Facebook"
+msgstr ""
+
+#: theme-options/theme-options.php:328
+msgid "Facebook profile or page URL "
+msgstr ""
+
+#: theme-options/theme-options.php:334
+msgid "Twitter"
+msgstr ""
+
+#: theme-options/theme-options.php:337
+msgid "Twitter profile or page URL "
+msgstr ""
+
+#: theme-options/theme-options.php:344
+msgid "Google Plus"
+msgstr ""
+
+#: theme-options/theme-options.php:347
+msgid "Google plus profile or page URL "
+msgstr ""
+
+#: theme-options/theme-options.php:354
+msgid "Pinterest"
+msgstr ""
+
+#: theme-options/theme-options.php:357
+msgid "pinterest profile or page URL "
+msgstr ""
+
+#: theme-options/theme-options.php:364
+msgid "Linkedin"
+msgstr ""
+
+#: theme-options/theme-options.php:367
+msgid "Linkedin profile or page URL "
+msgstr ""
+
+#: theme-options/theme-options.php:373
+msgid "RSS"
+msgstr ""
+
+#: theme-options/theme-options.php:376
+msgid "RSS profile or page URL "
+msgstr ""
+
+#: theme-options/theme-options.php:391
+msgid "Save options"
+msgstr ""
+
+#: theme-options/theme-options.php:396
+msgid "Options saved successfully."
+msgstr ""

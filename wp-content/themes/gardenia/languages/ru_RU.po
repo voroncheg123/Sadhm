@@ -1,0 +1,546 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gardenia v10.1.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-05-21 09:27+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ gardenia
+#: 404.php:10 404.php:23
+msgid "Epic 404 - Article Not Found"
+msgstr "404 - Статья не найдена"
+
+# @ gardenia
+#: 404.php:24
+msgid "This is embarassing. We can't find what you were looking for."
+msgstr "По данному адресу ничего не найдено. Воспользуйтесь поиском."
+
+# @ gardenia
+#: 404.php:25
+msgid "Whatever you were looking for was not found, but maybe try looking again or search using the form below."
+msgstr "К сожалению мы не нашли то, что вы искали, но вы можете попробовать еще раз, воспользовавшись формой поиска ниже."
+
+# @ gardenia
+#: archive.php:13 archive.php:16 archive.php:19
+msgid "Archives "
+msgstr "Архив"
+
+# @ gardenia
+#: author.php:12
+msgid "All posts by "
+msgstr "Все записи"
+
+# @ gardenia
+#: category.php:12
+msgid "Category "
+msgstr "Категория "
+
+# @ gardenia
+#: comments.php:18
+#, php-format
+msgid "One Response to \"%2$s\""
+msgid_plural "%1$s Responses to \"%2$s\""
+msgstr[0] "Один комментарий для \"%2$s\""
+msgstr[1] "%1$s Комментариев для \"%2$s\""
+
+# @ gardenia
+#: comments.php:27
+msgid "No comments."
+msgstr "Комментариев нет."
+
+# @ gardenia
+#: functions/breadcrumbs.php:9
+msgid "Home"
+msgstr "Главная"
+
+# @ gardenia
+#: functions/breadcrumbs.php:28
+msgid "category"
+msgstr "категория"
+
+# @ gardenia
+#: functions/breadcrumbs.php:31
+msgid "Search Results For"
+msgstr "Результаты поиска"
+
+# @ gardenia
+#: functions/breadcrumbs.php:89
+msgid "Posts tagged"
+msgstr "Записи с меткой"
+
+# @ gardenia
+#: functions/breadcrumbs.php:94
+msgid "Articles posted by "
+msgstr "Автор записи"
+
+# @ gardenia
+#: functions/breadcrumbs.php:97
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+# @ gardenia
+#: functions/breadcrumbs.php:102
+msgid "Page"
+msgstr "Страница "
+
+# @ gardenia
+#: functions/custom-widgets.php:11
+msgid "Recent Work only images"
+msgstr "Недавние работы только изображения"
+
+# @ gardenia
+#: functions/custom-widgets.php:14
+msgid "Only image for Recent work "
+msgstr ""
+
+# @ gardenia
+#: functions/custom-widgets.php:72
+msgid "New title"
+msgstr "Заголовок"
+
+# @ gardenia
+#: functions/custom-widgets.php:78
+msgid "Title:"
+msgstr "Заголовок:"
+
+# @ gardenia
+#: functions/custom-widgets.php:81
+msgid "Number of Post to show: "
+msgstr "Количество записей для показа"
+
+# @ gardenia
+#: functions/theme-default-setup.php:8
+msgid "Main Sidebar"
+msgstr ""
+
+# @ gardenia
+#: functions/theme-default-setup.php:10
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+# @ gardenia
+#: functions/theme-default-setup.php:18
+msgid "Footer Area One"
+msgstr ""
+
+# @ gardenia
+#: functions/theme-default-setup.php:20
+msgid "Footer area one that appears on the footer."
+msgstr ""
+
+# @ gardenia
+#: functions/theme-default-setup.php:28
+msgid "Footer Area Two"
+msgstr ""
+
+# @ gardenia
+#: functions/theme-default-setup.php:30
+msgid "Footer area two that appears on the footer."
+msgstr ""
+
+# @ gardenia
+#: functions/theme-default-setup.php:38
+msgid "Footer Area Three"
+msgstr ""
+
+# @ gardenia
+#: functions/theme-default-setup.php:40
+msgid "Footer area three that appears on the footer."
+msgstr ""
+
+# @ gardenia
+#: functions/theme-default-setup.php:48
+msgid "Footer Area Four"
+msgstr ""
+
+# @ gardenia
+#: functions/theme-default-setup.php:50
+msgid "Footer area four that appears on the footer."
+msgstr ""
+
+# @ gardenia
+#: functions/theme-default-setup.php:87
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+# @ gardenia
+#: functions/theme-default-setup.php:87
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+# @ gardenia
+#: functions/theme-default-setup.php:87
+msgid "% Comments"
+msgstr "% Комментариев"
+
+# @ gardenia
+#: functions/theme-default-setup.php:109
+msgctxt "comment form placeholder"
+msgid "Name *"
+msgstr "Имя *"
+
+# @ gardenia
+#: functions/theme-default-setup.php:121
+msgctxt "comment form placeholder"
+msgid "Email Id *"
+msgstr ""
+
+# @ gardenia
+#: functions/theme-default-setup.php:132
+msgctxt "comment form placeholder"
+msgid "Website URl"
+msgstr "URL веб-сайта * "
+
+# @ gardenia
+#: functions/theme-default-setup.php:150
+msgctxt "comment form placeholder"
+msgid "Comment"
+msgstr "Комментарий"
+
+# @ gardenia
+#: functions/theme-default-setup.php:163
+msgid "Previous"
+msgstr "Назад"
+
+# @ gardenia
+#: functions/theme-default-setup.php:164
+msgid "Next"
+msgstr "Вперед"
+
+# @ gardenia
+#: functions.php:10
+msgid "Main Menu"
+msgstr "Главное меню"
+
+# @ gardenia
+#: functions.php:11
+msgid "Footer Menu"
+msgstr ""
+
+# @ gardenia
+#: functions.php:68 page-templates/front-page.php:134
+msgid "Continue reading"
+msgstr "Подробнее"
+
+# @ gardenia
+#: header.php:87
+msgid "logo"
+msgstr "логотип"
+
+# @ gardenia
+#: header.php:103
+msgid "Toggle navigation"
+msgstr "Переключение навигации"
+
+# @ gardenia
+#: page-templates/full-width.php:38 page-templates/left-sidebar.php:39
+#: page.php:39 single.php:42
+msgid "Pages"
+msgstr "Страницы"
+
+# @ gardenia
+#: search.php:12
+msgid "Search Results for "
+msgstr "Результат поиска"
+
+# @ gardenia
+#: search.php:47
+msgid "Nothing Found"
+msgstr "Найдено ничего"
+
+# @ gardenia
+#: search.php:48
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не найдено по условиям поиска. Попробуйте использовать другие ключевые слова."
+
+# @ gardenia
+#: tag.php:14
+msgid "Tag "
+msgstr "Метка"
+
+# @ gardenia_framework
+# @ gardenia
+#: theme-options/theme-options.php:52 theme-options/theme-options.php:53
+#: theme-options/theme-options.php:90
+msgid "Theme Options"
+msgstr "Опции темы"
+
+# @ gardenia
+#: theme-options/theme-options.php:81
+msgid "Save Options"
+msgstr "Сохранить настройки"
+
+# @ gardenia
+#: theme-options/theme-options.php:93
+msgid "Basic Settings"
+msgstr "Основные настройки"
+
+# @ gardenia
+#: theme-options/theme-options.php:94
+msgid "Home Page Settings"
+msgstr "Настройки Главной страницы"
+
+# @ gardenia
+#: theme-options/theme-options.php:95
+msgid "Social Settings"
+msgstr "Социальные сети"
+
+# @ gardenia
+#: theme-options/theme-options.php:96
+msgid "PRO Theme Features"
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:112
+msgid "Site Logo"
+msgstr "Логотип сайта"
+
+# @ gardenia
+#: theme-options/theme-options.php:114
+msgid "Size of Logo should be exactly 300x120px for best results."
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:118 theme-options/theme-options.php:136
+#: theme-options/theme-options.php:188 theme-options/theme-options.php:231
+msgid "No file chosen"
+msgstr "Файл не выбран"
+
+# @ gardenia
+#: theme-options/theme-options.php:119 theme-options/theme-options.php:137
+#: theme-options/theme-options.php:189 theme-options/theme-options.php:232
+msgid "Upload"
+msgstr "Загрузка"
+
+# @ gardenia
+#: theme-options/theme-options.php:131
+msgid "Favicon"
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:133
+msgid "Size of favicon should be exactly 32x32px for best results."
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:149
+msgid "Copyright Text"
+msgstr "Авторские права"
+
+# @ gardenia
+#: theme-options/theme-options.php:152
+msgid "Some text regarding copyright of your site, you would like to display in the footer."
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:159
+msgid "Email"
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:162
+msgid "Enter e-mail id for your site , you would like to display in the Top Header."
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:169
+msgid "Phone"
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:172
+msgid "Enter phone number for your site , you would like to display in the Top Header."
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:181
+msgid "Banner Slider"
+msgstr "Баннер Слайдера"
+
+# @ gardenia
+#: theme-options/theme-options.php:184 theme-options/theme-options.php:198
+msgid "Slider"
+msgstr "Слайдер"
+
+# @ gardenia
+#: theme-options/theme-options.php:184
+msgid " (Recommended Size : 1350px * 350px) "
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:198
+msgid "link"
+msgstr "ссылка"
+
+# @ gardenia
+#: theme-options/theme-options.php:203
+msgid "Title Bar"
+msgstr "Строка заголовка"
+
+# @ gardenia
+#: theme-options/theme-options.php:205 theme-options/theme-options.php:262
+msgid "Title"
+msgstr "Название"
+
+# @ gardenia
+#: theme-options/theme-options.php:208
+msgid "Enter home page title for your site , you would like to display in the Home Page."
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:214 theme-options/theme-options.php:271
+msgid "Short Description"
+msgstr "Краткое описание"
+
+# @ gardenia
+#: theme-options/theme-options.php:217
+msgid "Enter content for your site , you would like to display in the Home Page."
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:223
+msgid "First Section"
+msgstr "Первая секция"
+
+# @ gardenia
+#: theme-options/theme-options.php:226
+msgid "Tab"
+msgstr "Вкладка"
+
+# @ gardenia
+#: theme-options/theme-options.php:229
+msgid "An image with a height of 150 pixels and a width of 150 pixels:"
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:242
+msgid "Enter section title for your home template , you would like to display in the Home Page."
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:243
+msgid "Enter title here"
+msgstr "Введите заголовок здесь"
+
+# @ gardenia
+#: theme-options/theme-options.php:246
+msgid "Enter section content for home template , you would like to display in the Home Page."
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:247
+msgid "Enter Content here"
+msgstr "Введите здесь содержание"
+
+# @ gardenia
+#: theme-options/theme-options.php:251
+msgid "Enter section link for your home template , you would like to display in the Home Page."
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:252
+msgid "Enter link here"
+msgstr "Вставьте вашу ссылку здесь"
+
+# @ gardenia
+#: theme-options/theme-options.php:260
+msgid "Second Section"
+msgstr "Вторая секция"
+
+# @ gardenia
+#: theme-options/theme-options.php:265
+msgid "Enter Latest post title for your site , you would like to display in the Home Page."
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:274
+msgid "Enter latest post content for your site , you would like to display in the Home Page."
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:280 theme-options/theme-options.php:285
+msgid "Select Category"
+msgstr "Выбрать категорию"
+
+# @ gardenia
+#: theme-options/theme-options.php:283
+msgid "Select Categories of posts for your site , you would like to display in the Home Page."
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:329
+msgid "Facebook"
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:332
+msgid "Facebook profile or page URL "
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:338
+msgid "Twitter"
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:341
+msgid "Twitter profile or page URL "
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:348
+msgid "Google Plus"
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:351
+msgid "Google plus profile or page URL "
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:358
+msgid "Pinterest"
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:361
+msgid "pinterest profile or page URL "
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:368
+msgid "Linkedin"
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:371
+msgid "Linkedin profile or page URL "
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:377
+msgid "RSS"
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:380
+msgid "RSS profile or page URL "
+msgstr ""
+
+# @ gardenia
+#: theme-options/theme-options.php:404
+msgid "Save options"
+msgstr "Сохранить опции"
