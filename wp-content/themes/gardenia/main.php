@@ -121,7 +121,8 @@ get_header();
                         <a href="<?=the_permalink(); ?>" class="rMo">Подробнее</a><span class="postDate"><?the_date();?></span>
                     </div>
                 </div>
-				<?php endwhile; ?>	
+				<?php endwhile; ?>
+            111111
 		</div>
 		<div class="col-md-3">
 			<?php dynamic_sidebar( 'left_sidebar' ); ?>	
